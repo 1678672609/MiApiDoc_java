@@ -1,7 +1,7 @@
 # MiApiDoc_java
 Spring项目文档生成工具
 
-该工具需配合https://github.com/1678672609/  MIApi使用
+该工具需配合https://github.com/1678672609/MIApi  MIApi使用
 
 
 
